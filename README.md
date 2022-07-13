@@ -3,9 +3,13 @@
 
 A programming language inspired by python but its DIE
 
+Also inspired by my friend saying DIE
+
 
 HELLO WORLD PRINT:
+
 PRINTDIE("Hello World!")
 
 RUN COMMAND:
+
 DIERUN("file-name.die")
